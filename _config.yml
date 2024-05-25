@@ -1,6 +1,6 @@
-permalink: /:neko
-url: https://xtinghost.github.io/
-
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /project
 
 # variables
 name: Your Site Name
@@ -9,7 +9,7 @@ google_verification: null
 
 
 # File management
-
+include: [".htaccess"]
 exclude: ["README.md", "LICENSE"]
 
 # Sass
