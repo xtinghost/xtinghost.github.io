@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://xtinghost.github.io/
+baseurl: /
 
 # variables
 name: Your Site Name
