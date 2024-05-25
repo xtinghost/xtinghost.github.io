@@ -1,26 +1,20 @@
 permalink: /:year/:month/:day/:title/
 url: https://xtinghost.github.io
 baseurl: ""
+theme: windows-95
 
-# Variables
-name: Your Site Name
+name: Hi Welcome to My World
 description: Your description here
 google_verification: null
 
-# File management
 exclude: ["README.md", "LICENSE"]
 
-# Sass
 sass:
   style: :compressed
   sass_dir: _sass
 
-# Markdown
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable: true
-
-# Theme
-theme: windows-95
