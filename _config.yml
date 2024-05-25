@@ -1,6 +1,6 @@
 permalink: /:neko
 url: https://xtinghost.github.io/
-baseurl: null
+baseurl: ""
 
 # variables
 name: Your Site Name
