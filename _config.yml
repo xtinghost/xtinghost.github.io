@@ -1,6 +1,6 @@
 permalink: /:neko/
 url: https://xtinghost.github.io
-baseurl: ""
+baseurl: 
 theme: windows-95
 
 # variables
