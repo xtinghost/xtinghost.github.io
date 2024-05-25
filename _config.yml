@@ -1,6 +1,7 @@
 permalink: /:year:month:day/:title
 url: https://xtinghost.github.io
 baseurl: /project
+theme: windows-95
 
 # variables
 name: Your Site Name
