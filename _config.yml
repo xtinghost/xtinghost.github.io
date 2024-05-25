@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: neko
 url: https://xtinghost.github.io
 baseurl: /project
 theme: windows-95
