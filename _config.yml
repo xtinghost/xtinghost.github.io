@@ -1,9 +1,9 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+permalink: /:neko
+url: https://xtinghost.github.io
+baseurl: 
 
 # variables
-name: Your Site Name
+name: Hi Welcome to My World
 description: Your description here
 google_verification: null
 
