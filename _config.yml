@@ -1,6 +1,6 @@
-permalink: neko
+permalink: /:neko
 url: https://xtinghost.github.io/
-baseurl: ""
+
 
 # variables
 name: Your Site Name
