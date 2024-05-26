@@ -2,7 +2,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
-
+url: "https://xtinghost.github.io"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
