@@ -1,4 +1,4 @@
-permalink: /:2024/:05/:25/:neko/
+permalink: /:year/:month/:day/:title/
 url: https://xtinghost.github.io/
 baseurl: ""
 
