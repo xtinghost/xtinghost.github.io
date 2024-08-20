@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IDC Cats"
-tags: Digital
+tags: digital
 ---
 
 ## IDC Cat
