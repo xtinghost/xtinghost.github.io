@@ -23,10 +23,16 @@
 		<div class="default_title">
 			<img src="/assets/img/mycomputer.png" />
 			{% if page.tag %}
-				<h1>{{ page.tag }}</h1>
-			{% else %}
-				<h1>{{ site.name }}</h1>
-			{% endif %}
+    {% if page.tag == "manga" %}
+        <h1>Manga</h1>
+    {% elsif page.tag == "digital" %}
+        <h1>Digital</h1>
+    {% else %}
+        <h1>{{ page.tag }}</h1>  <!-- Default: show the tag if no match is found -->
+    {% endif %}
+{% else %}
+    <h1>{{ site.name }}</h1>
+{% endif %}
 		</div>
 		{% include topbar.html %}
 		<div class="tag_list">
