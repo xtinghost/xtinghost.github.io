@@ -6,11 +6,10 @@ title: me
 ## ꕤ✨️ ♡ʚฅ^•o•^ฅɞ♡ ̖́-✨️ꕤ
 
 
+Hi I am Neko / witch / feminist, working in illustration and manga department at the center of（´-`）.｡oO. 
 
-Hi I am Neko, also a dyke witch, working in the illustration department, sometimes I also make some manga too.
-
+I also do hand-printed T-shirt, art prints, postcards, etc... 
 
 Ohh I love cats and magical things so much!
 
-
-And I guess that's all I wanna say now...See you around :3
+I guess that's all I wanna say now...bye for now and see you around ☆〜（ゝ。∂）
