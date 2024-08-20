@@ -14,5 +14,5 @@ tags: digital
 ![idc4](/assets/idc4.jpeg)
 ![idc5](/assets/idc5.jpeg)
 ![idc6](/assets/idc6.jpeg)
-![idc7](/assets/idc/07.jpeg)
-![idc8](/assets/idc/08.jpg)
+![idc7](/assets/idc7.jpeg)
+
