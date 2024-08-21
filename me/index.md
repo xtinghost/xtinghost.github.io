@@ -1,0 +1,15 @@
+---
+layout: default
+title: me
+---
+
+## ꕤ✨️ ♡ʚฅ^•o•^ฅɞ♡ ̖́-✨️ꕤ
+
+
+Hi I am Neko / witch / feminist, working in illustration and manga department at the center of（´-`）.｡oO. 
+
+I also do hand-printed T-shirt, art prints, postcards, etc... 
+
+Ohh I love cats and magical things so much!
+
+I guess that's all I wanna say now...bye for now and see you around ☆〜（ゝ。∂）
