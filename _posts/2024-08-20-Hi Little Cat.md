@@ -6,4 +6,4 @@ tags: marker
 
 ## do you know blinking is a way to say hi to cats
 
-![hi](/assets/marker/HiL.jpeg)
+![hi](/assets/marker/Hi.jpeg)
