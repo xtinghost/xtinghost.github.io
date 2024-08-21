@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Middle-aged Women"
+title: "middle-aged women"
 tags: marker
 ---
 
